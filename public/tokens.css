@@ -1,0 +1,24 @@
+:root {
+    /* Fonts */
+    --font-base: 'Playfair Display', serif;
+    --font-decorative: 'Great Vibes', cursive;
+  
+    /* Colors */
+    --color-primary: rgb(176, 85, 199);
+    --color-header-bg: #dceef2;
+    --color-link: #0066cc;
+    --color-text: #333;
+    --color-title: rgb(176, 85, 199);
+  }
+
+ /* Dark mode overrides */
+body.dark-mode {
+  --color-header-bg: #1005b1;
+  --color-background: #3e3e5c;
+  --color-text: #e8ffff;
+  --color-link: #FFF;
+  --color-title: #FFF; 
+  --color-secondary: #FFF;
+  --color-text: #FFF;
+}
+  /* b4f2f6,bbddf8 */
