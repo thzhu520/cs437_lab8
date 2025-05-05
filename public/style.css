@@ -33,7 +33,7 @@ body.dark-mode {
 }
 
 body.dark-mode .overlay {
-  background-color: rgba(94, 115, 123, 0.6); /* or tweak opacity to your liking */
+  background-color: rgba(94, 115, 123, 0.6); 
 }
 
 
